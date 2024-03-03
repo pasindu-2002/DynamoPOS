@@ -2,7 +2,7 @@
 DynamoPOS
 DynamoPOS is a Java-based Point of Sale (POS) system designed for small to medium-sized businesses. It offers a user-friendly interface built with Java Swing for easy navigation and efficient transaction management. The system leverages JDBC for database connectivity and utilizes MySQL as the backend database management system.
 
-<h4>Features <h4>
+<h3>Features </h3>
 Intuitive User Interface: DynamoPOS provides a clean and intuitive user interface designed using Java Swing, making it easy for cashiers to navigate through various functionalities.
 
 Efficient Transaction Management: With DynamoPOS, users can efficiently manage transactions, including sales, refunds, voids, and discounts, streamlining the checkout process.
@@ -13,7 +13,7 @@ Customizable Reports: DynamoPOS generates customizable reports on sales, invento
 
 Secure Authentication: User authentication ensures secure access to the system, with customizable user roles and permissions to control access to sensitive functionalities.
 
-Technologies Used
+<h3>Technologies Used</h3>
 Java: The core functionality of DynamoPOS is developed using Java, providing platform independence and robustness.
 
 Java Swing: DynamoPOS utilizes Java Swing for building the graphical user interface, offering a responsive and visually appealing user experience.
