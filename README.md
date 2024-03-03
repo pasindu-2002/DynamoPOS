@@ -1,5 +1,5 @@
 # DynamoPOS
-This is an point of sales (POS) system.
+DynamoPOS is a robust Java-based Point of Sale (POS) system designed to streamline your business operations. Powered by Java and seamlessly connected to MySQL, DynamoPOS offers a reliable and efficient solution for managing transactions, inventory, and sales data. With an intuitive user interface, this POS system provides a user-friendly experience for both staff and customers. DynamoPOS empowers businesses to enhance their efficiency, accuracy, and overall customer satisfaction. Elevate your retail experience with DynamoPOS - where advanced technology meets simplicity in point-of-sale management
 
 ![Login Page](https://github.com/pasindu-2002/DynamoPOS/assets/87941322/00ed4d0d-5f9e-406a-a36f-f8a9f2c085bf)
 
