@@ -22,6 +22,8 @@ DynamoPOS is a Java-based Point of Sale (POS) system designed for small to mediu
   <li>MySQL: DynamoPOS utilizes MySQL as the backend database management system for storing transaction data, inventory information, and user credentials.</li>
 </ul>
 
+<h1>User Interface</h1>
+
 ![Login Page](https://github.com/pasindu-2002/DynamoPOS/assets/87941322/00ed4d0d-5f9e-406a-a36f-f8a9f2c085bf)
 
 ![Dashboard](https://github.com/pasindu-2002/DynamoPOS/assets/87941322/b99fd601-2ac0-42a8-adcc-91dc0c4caa02)
